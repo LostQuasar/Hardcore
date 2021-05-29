@@ -1,0 +1,11 @@
+{
+    "name": "hardcore",
+    "author": "spaceman",
+    "version": "1.0.0",
+    "lockfileVersion": 1,
+    "requires": true,
+    "dependencies": {},
+    "main": "main.js",
+    "license": "NCSA"
+}
+  
